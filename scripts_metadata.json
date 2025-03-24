@@ -1,50 +1,36 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2024-10-20",
+  "last_updated": "2025-03-24T12:00:00Z",
   "scripts": [
     {
-      "id": "scripts_metadata",
+      "id": "Monad1",
       "name": "Monad1",
-      "description": "一键交互",
-      "version": "2.1.0",
-      "download_type": "baidu_disk",
+      "description": "一键交互、自动领水、一键质押",
+      "version": "v1.1.0",
       "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
-      "extract_code": "abcd",
-      "category": "热门脚本",
-      "author": "FourAir团队"
+      "download_type": "lanzou",
+      "author": "FourAir Team",
+      "min_app_version": "1.0.0"
     },
     {
-      "id": "scripts_metadata",
+      "id": "Monad2",
       "name": "Monad2",
       "description": "一键交互、自动领水、一键质押",
-      "version": "2.1.0",
-      "download_type": "baidu_disk",
+      "version": "v1.1.0",
       "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
-      "extract_code": "abcd",
-      "category": "热门脚本",
-      "author": "FourAir团队"
+      "download_type": "lanzou",
+      "author": "FourAir Team",
+      "min_app_version": "1.0.0"
     },
     {
-      "id": "scripts_metadata",
+      "id": "Monad3",
       "name": "Monad3",
       "description": "一键交互、自动领水、一键质押",
-      "version": "2.1.0",
-      "download_type": "baidu_disk",
+      "version": "v1.1.0",
       "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
-      "extract_code": "abcd",
-      "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "scripts_metadata",
-      "name": "Monad3",
-      "description": "一键交互、自动领水、一键质押",
-      "version": "2.1.0",
-      "download_type": "baidu_disk",
-      "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
-      "extract_code": "abcd",
-      "category": "热门脚本",
-      "author": "FourAir团队"
+      "download_type": "lanzou",
+      "author": "FourAir Team",
+      "min_app_version": "1.0.0"
     }
-  ]
+  ],
+  "signature": "bOR+b2XG9kNP8FeRg5xDUjpLZODujNMIU+nd6vUVXTGezBgMmVtWJoLDQNnr+7bC9qOnYPH+WChGORfeIOl/KJ+2U8kJ27pNhbhJa2XkHZB2dfiU5iQGmUDMjLVQ8xuGS7bsxJd8rm1PBmqHeWiag4R+6ZGNOvl4Hz7gT1882H08+gSjgLRgLpsvhIYtAQBsbCd2s01sVl2ZLi6N/8N2mrJZ5EPbk6/8GXT+piQ0hVj+mvsvI71nyA92uS32qXWCRHrkMd6/2FgURWQbist++LDdSJ5O76IsQpmEYTlcCk3lcJM12PXr7bBecO8I0RPeKLkzRlcD3qFM8XDcD8/2oA=="
 }
