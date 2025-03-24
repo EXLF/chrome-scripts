@@ -23,6 +23,28 @@
       "extract_code": "efgh",
       "category": "热门脚本",
       "author": "FourAir团队"
+    },
+    {
+      "id": "pod-network",
+      "name": "POD Network",
+      "description": "一键交互、自动领水",
+      "version": "1.5.2",
+      "download_type": "aliyun_disk",
+      "download_url": "https://www.aliyundrive.com/s/你的分享链接",
+      "extract_code": "efgh",
+      "category": "热门脚本",
+      "author": "FourAir团队"
+    },
+    {
+      "id": "pod-network",
+      "name": "POD Network",
+      "description": "一键交互、自动领水",
+      "version": "1.5.2",
+      "download_type": "aliyun_disk",
+      "download_url": "https://www.aliyundrive.com/s/你的分享链接",
+      "extract_code": "efgh",
+      "category": "热门脚本",
+      "author": "FourAir团队"
     }
   ]
 }
