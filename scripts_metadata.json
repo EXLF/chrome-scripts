@@ -34,6 +34,17 @@
       "extract_code": "abcd",
       "category": "热门脚本",
       "author": "FourAir团队"
+    },
+    {
+      "id": "scripts_metadata",
+      "name": "Monad3",
+      "description": "一键交互、自动领水、一键质押",
+      "version": "2.1.0",
+      "download_type": "baidu_disk",
+      "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
+      "extract_code": "abcd",
+      "category": "热门脚本",
+      "author": "FourAir团队"
     }
   ]
 }
