@@ -4,16 +4,36 @@
   "scripts": [
     {
       "id": "scripts_metadata",
-      "name": "Monad",
+      "name": "Monad1",
+      "description": "一键交互",
+      "version": "2.1.0",
+      "download_type": "baidu_disk",
+      "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
+      "extract_code": "abcd",
+      "category": "热门脚本",
+      "author": "FourAir团队"
+    },
+    {
+      "id": "scripts_metadata",
+      "name": "Monad2",
       "description": "一键交互、自动领水、一键质押",
       "version": "2.1.0",
       "download_type": "baidu_disk",
       "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
       "extract_code": "abcd",
       "category": "热门脚本",
-      "author": "FourAir团队",
-      "file_hash": "506ec85d7dfb6b725943208281b2b29970e48f56e8dd34d6b5eb1bd960f0eee0"
+      "author": "FourAir团队"
+    },
+    {
+      "id": "scripts_metadata",
+      "name": "Monad3",
+      "description": "一键交互、自动领水、一键质押",
+      "version": "2.1.0",
+      "download_type": "baidu_disk",
+      "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
+      "extract_code": "abcd",
+      "category": "热门脚本",
+      "author": "FourAir团队"
     }
-  ],
-  "signature": "p6L9a1BkiWdJjo0lMtTk/q08x5Liy4pJrh2ep6eV51TWcSDF/Mvi/Dsgp0oNooEcsMVVoQXcbsD9ixkU01Mh3FcJjlLOzdIi9CHK5cnKpy85QI52LQGYjNKKrAFEZR4nlLgao41JrOCQ+dxhIenSykpT1yNvuaXXp9dpGs8abiNUXFc+0ApWPFb3iUcvAlCWYzn4S9JZ3jiWikrYzBylJWZnbTNnmF/GDyv7ugWaOBVg5XT176cd+E4M9Q1cgVb5z+naJz4g01QNNMqVQ2YavhJLNKhdVNeQhgZc11ixNW9dYFxbe/NyfKQx9bQQh30916n5SDOslXcny6NyUgzpKw=="
+  ]
 }
