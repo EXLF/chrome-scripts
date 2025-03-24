@@ -3,7 +3,7 @@
   "last_updated": "2024-10-20",
   "scripts": [
     {
-      "id": "monad-script",
+      "id": "scripts_metadata",
       "name": "Monad",
       "description": "一键交互、自动领水、一键质押",
       "version": "2.1.0",
@@ -11,84 +11,9 @@
       "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
       "extract_code": "abcd",
       "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "pod-network",
-      "name": "POD Network",
-      "description": "一键交互、自动领水",
-      "version": "1.5.2",
-      "download_type": "aliyun_disk",
-      "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
-      "extract_code": "efgh",
-      "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "pod-network",
-      "name": "POD Network",
-      "description": "一键交互、自动领水",
-      "version": "1.5.2",
-      "download_type": "aliyun_disk",
-      "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
-      "extract_code": "efgh",
-      "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "pod-network",
-      "name": "POD Network",
-      "description": "一键交互、自动领水",
-      "version": "1.5.2",
-      "download_type": "aliyun_disk",
-      "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
-      "extract_code": "efgh",
-      "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "monad-script",
-      "name": "Monad",
-      "description": "一键交互、自动领水、一键质押",
-      "version": "2.1.0",
-      "download_type": "baidu_disk",
-      "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
-      "extract_code": "abcd",
-      "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "pod-network",
-      "name": "POD Network",
-      "description": "一键交互、自动领水",
-      "version": "1.5.2",
-      "download_type": "aliyun_disk",
-      "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
-      "extract_code": "efgh",
-      "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "pod-network",
-      "name": "POD Network",
-      "description": "一键交互、自动领水",
-      "version": "1.5.2",
-      "download_type": "aliyun_disk",
-      "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
-      "extract_code": "efgh",
-      "category": "热门脚本",
-      "author": "FourAir团队"
-    },
-    {
-      "id": "pod-network",
-      "name": "POD Network",
-      "description": "一键交互、自动领水",
-      "version": "1.5.2",
-      "download_type": "aliyun_disk",
-      "download_url": "https://wwmf.lanzout.com/iq0m62rgdezi",
-      "extract_code": "efgh",
-      "category": "热门脚本",
-      "author": "FourAir团队"
+      "author": "FourAir团队",
+      "file_hash": "506ec85d7dfb6b725943208281b2b29970e48f56e8dd34d6b5eb1bd960f0eee0"
     }
-  ]
+  ],
+  "signature": "Del/+12vcurVAdlvuhbs7auilW77q8momEhsE5fcy74Bizjk2oa8X5EBhQnwSAVdlIWKeo32mCTpOdI6qxUPWAYf9q/gMmPV08vpm1tioR6PLf8gahlFMWDe0xOke1VF6YV2ipwKVFtU8wtwbhsUfa5SnuJKUnO0m5PzTI1bRH/X7elsWgPIvKXJBTwnh5jfPmRNkp4PM0w8jSV0OOWoIyq8WlW2aN5foHllPU9YuuKocmt/EJ56QInDfrEU6OaPM86IWdopOAlD1MHMN1wU1qdXQygj1KM4ACNsYWQ0Te0DdkVR/K9Gh0kZGm4JlVia85yYeZdpzouLMo4dDHw1hQ=="
 }
