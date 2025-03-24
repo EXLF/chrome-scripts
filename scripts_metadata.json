@@ -45,7 +45,8 @@
       "extract_code": "efgh",
       "category": "热门脚本",
       "author": "FourAir团队"
-    },{
+    },
+    {
       "id": "monad-script",
       "name": "Monad",
       "description": "一键交互、自动领水、一键质押",
