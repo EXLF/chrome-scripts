@@ -2,35 +2,35 @@
   "last_updated": "2025-03-24T12:00:00Z",
   "scripts": [
     {
-      "id": "Monad1",
-      "name": "Monad1",
-      "description": "一键交互、自动领水、一键质押",
+      "id": "批量生成钱包工具",
+      "name": "批量生成钱包工具",
+      "description": "批量生成钱包",
       "version": "v1.1.0",
-      "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
+      "download_url": "https://wwmf.lanzout.com/i6yES2sa9ghi",
       "download_type": "lanzou",
       "author": "FourAir Team",
       "min_app_version": "1.0.0"
     },
     {
-      "id": "Monad2",
-      "name": "Monad2",
-      "description": "一键交互、自动领水、一键质押",
+      "id": "Beamable自动化脚本",
+      "name": "Beamable自动化脚本",
+      "description": "协议交互，直接完成任务，无需手动操作",
       "version": "v1.1.0",
-      "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
+      "download_url": "https://wwmf.lanzout.com/isfq52s21r8j",
       "download_type": "lanzou",
       "author": "FourAir Team",
       "min_app_version": "1.0.0"
     },
     {
-      "id": "Monad3",
-      "name": "Monad3",
-      "description": "一键交互、自动领水、一键质押",
+      "id": "SoginAi自动刷图插件",
+      "name": "SoginAi自动刷图插件",
+      "description": "无需手动刷图，自动刷图",
       "version": "v1.1.0",
-      "download_url": "https://wwmf.lanzout.com/iL1L52riaevi",
+      "download_url": "https://wwmf.lanzout.com/ibsbu2rugubc",
       "download_type": "lanzou",
       "author": "FourAir Team",
       "min_app_version": "1.0.0"
     }
   ],
-  "signature": "bOR+b2XG9kNP8FeRg5xDUjpLZODujNMIU+nd6vUVXTGezBgMmVtWJoLDQNnr+7bC9qOnYPH+WChGORfeIOl/KJ+2U8kJ27pNhbhJa2XkHZB2dfiU5iQGmUDMjLVQ8xuGS7bsxJd8rm1PBmqHeWiag4R+6ZGNOvl4Hz7gT1882H08+gSjgLRgLpsvhIYtAQBsbCd2s01sVl2ZLi6N/8N2mrJZ5EPbk6/8GXT+piQ0hVj+mvsvI71nyA92uS32qXWCRHrkMd6/2FgURWQbist++LDdSJ5O76IsQpmEYTlcCk3lcJM12PXr7bBecO8I0RPeKLkzRlcD3qFM8XDcD8/2oA=="
+  "signature": "QrauYVaGj1KwNycsfaXot107YtvVXKoZlit4LNefv8DTpKrqCqew+qrwHCVUEaJ344Z7FfoZCTnyBkUqJL99pK57bJSoe6NDt6QLq+TfZPbKq5QKiz8mMba9oZBwBUPlTElfWncEzTCrW64Dj09fXtXbcndO+vWmF1hUlzXtA8hjeE4dCgNRy/V2IW6L2o8s9LsPrPkcTlwIOq7kSdZ3RYQyP2FceFLGrAw6ePRUxb5ijT/hmcfkV6HMVSBHhC4A5X143RpIy05r2fmOCoQCgeQklOn4LP6cVUdImu4lki5qEZ0fF0xL2faAWbDn20uWsoM796Gz2tH9APjPGEUI7g=="
 }
